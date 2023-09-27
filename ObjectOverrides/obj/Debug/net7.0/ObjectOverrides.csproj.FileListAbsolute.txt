@@ -1,0 +1,14 @@
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\bin\Debug\net7.0\ObjectOverrides.exe
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\bin\Debug\net7.0\ObjectOverrides.deps.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\bin\Debug\net7.0\ObjectOverrides.runtimeconfig.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\bin\Debug\net7.0\ObjectOverrides.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\bin\Debug\net7.0\ObjectOverrides.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ObjectOverrides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ObjectOverrides.AssemblyInfoInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ObjectOverrides.AssemblyInfo.cs
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ObjectOverrides.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\refint\ObjectOverrides.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ObjectOverrides.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ObjectOverrides.genruntimeconfig.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectOverrides\obj\Debug\net7.0\ref\ObjectOverrides.dll

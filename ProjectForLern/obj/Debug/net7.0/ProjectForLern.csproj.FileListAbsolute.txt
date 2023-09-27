@@ -1,0 +1,14 @@
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\bin\Debug\net7.0\ProjectForLern.exe
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\bin\Debug\net7.0\ProjectForLern.deps.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\bin\Debug\net7.0\ProjectForLern.runtimeconfig.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\bin\Debug\net7.0\ProjectForLern.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\bin\Debug\net7.0\ProjectForLern.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ProjectForLern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ProjectForLern.AssemblyInfoInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ProjectForLern.AssemblyInfo.cs
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ProjectForLern.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ProjectForLern.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\refint\ProjectForLern.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ProjectForLern.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ProjectForLern.genruntimeconfig.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ProjectForLern\obj\Debug\net7.0\ref\ProjectForLern.dll

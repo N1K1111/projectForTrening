@@ -1,0 +1,14 @@
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\RecordInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\RecordInheritance.AssemblyInfoInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\RecordInheritance.AssemblyInfo.cs
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\RecordInheritance.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\bin\Debug\net7.0\RecordInheritance.exe
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\bin\Debug\net7.0\RecordInheritance.deps.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\bin\Debug\net7.0\RecordInheritance.runtimeconfig.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\bin\Debug\net7.0\RecordInheritance.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\bin\Debug\net7.0\RecordInheritance.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\RecordInheritance.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\refint\RecordInheritance.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\RecordInheritance.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\RecordInheritance.genruntimeconfig.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\RecordInheritance\obj\Debug\net7.0\ref\RecordInheritance.dll

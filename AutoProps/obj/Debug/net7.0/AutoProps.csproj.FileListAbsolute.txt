@@ -1,0 +1,14 @@
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\bin\Debug\net7.0\AutoProps.exe
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\bin\Debug\net7.0\AutoProps.deps.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\bin\Debug\net7.0\AutoProps.runtimeconfig.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\bin\Debug\net7.0\AutoProps.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\bin\Debug\net7.0\AutoProps.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\AutoProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\AutoProps.AssemblyInfoInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\AutoProps.AssemblyInfo.cs
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\AutoProps.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\AutoProps.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\refint\AutoProps.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\AutoProps.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\AutoProps.genruntimeconfig.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\AutoProps\obj\Debug\net7.0\ref\AutoProps.dll

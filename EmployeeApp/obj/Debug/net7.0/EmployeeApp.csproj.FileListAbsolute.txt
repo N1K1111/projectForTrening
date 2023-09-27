@@ -1,0 +1,14 @@
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\bin\Debug\net7.0\EmployeeApp.exe
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\bin\Debug\net7.0\EmployeeApp.deps.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\bin\Debug\net7.0\EmployeeApp.runtimeconfig.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\bin\Debug\net7.0\EmployeeApp.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\bin\Debug\net7.0\EmployeeApp.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\EmployeeApp.AssemblyInfo.cs
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\EmployeeApp.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\refint\EmployeeApp.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\EmployeeApp.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\EmployeeApp.genruntimeconfig.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\EmployeeApp\obj\Debug\net7.0\ref\EmployeeApp.dll

@@ -1,0 +1,14 @@
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\bin\Debug\net7.0\StaticDataAndMembers.exe
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\bin\Debug\net7.0\StaticDataAndMembers.deps.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\bin\Debug\net7.0\StaticDataAndMembers.runtimeconfig.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\bin\Debug\net7.0\StaticDataAndMembers.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\bin\Debug\net7.0\StaticDataAndMembers.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\StaticDataAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\StaticDataAndMembers.AssemblyInfoInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\StaticDataAndMembers.AssemblyInfo.cs
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\StaticDataAndMembers.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\refint\StaticDataAndMembers.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\StaticDataAndMembers.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\StaticDataAndMembers.genruntimeconfig.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\StaticDataAndMembers\obj\Debug\net7.0\ref\StaticDataAndMembers.dll

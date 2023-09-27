@@ -1,0 +1,14 @@
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\bin\Debug\net7.0\ObjectInitializers.exe
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\bin\Debug\net7.0\ObjectInitializers.deps.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\bin\Debug\net7.0\ObjectInitializers.runtimeconfig.json
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\bin\Debug\net7.0\ObjectInitializers.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\bin\Debug\net7.0\ObjectInitializers.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ObjectInitializers.AssemblyInfoInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ObjectInitializers.AssemblyInfo.cs
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ObjectInitializers.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\refint\ObjectInitializers.dll
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ObjectInitializers.pdb
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ObjectInitializers.genruntimeconfig.cache
+C:\Users\nikgl\Desktop\MyShop\ProjectForLern\ObjectInitializers\obj\Debug\net7.0\ref\ObjectInitializers.dll
