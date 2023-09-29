@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ProjectForLern\\ProjectForLern.csproj": {}
+    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\ProjectForLern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ProjectForLern\\ProjectForLern.csproj": {
+    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\ProjectForLern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ProjectForLern\\ProjectForLern.csproj",
+        "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\ProjectForLern.csproj",
         "projectName": "ProjectForLern",
-        "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ProjectForLern\\ProjectForLern.csproj",
+        "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\ProjectForLern.csproj",
         "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ProjectForLern\\obj\\",
+        "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

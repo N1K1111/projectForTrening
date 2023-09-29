@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

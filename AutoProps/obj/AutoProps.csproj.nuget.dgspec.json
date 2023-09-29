@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\AutoProps\\AutoProps.csproj": {}
+    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\AutoProps\\AutoProps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\AutoProps\\AutoProps.csproj": {
+    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\AutoProps\\AutoProps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\AutoProps\\AutoProps.csproj",
+        "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\AutoProps\\AutoProps.csproj",
         "projectName": "AutoProps",
-        "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\AutoProps\\AutoProps.csproj",
+        "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\AutoProps\\AutoProps.csproj",
         "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\AutoProps\\obj\\",
+        "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\AutoProps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

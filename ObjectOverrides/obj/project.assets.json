@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ObjectOverrides\\ObjectOverrides.csproj",
+      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ObjectOverrides\\ObjectOverrides.csproj",
       "projectName": "ObjectOverrides",
-      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ObjectOverrides\\ObjectOverrides.csproj",
+      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ObjectOverrides\\ObjectOverrides.csproj",
       "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ObjectOverrides\\obj\\",
+      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ObjectOverrides\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

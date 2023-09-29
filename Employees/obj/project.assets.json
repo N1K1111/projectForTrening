@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\Employees\\Employees.csproj",
+      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\Employees\\Employees.csproj",
       "projectName": "Employees",
-      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\Employees\\Employees.csproj",
+      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\Employees\\Employees.csproj",
       "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\Employees\\obj\\",
+      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\Employees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

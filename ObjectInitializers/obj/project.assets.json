@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ObjectInitializers\\ObjectInitializers.csproj",
+      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ObjectInitializers\\ObjectInitializers.csproj",
       "projectName": "ObjectInitializers",
-      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ObjectInitializers\\ObjectInitializers.csproj",
+      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ObjectInitializers\\ObjectInitializers.csproj",
       "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\ObjectInitializers\\obj\\",
+      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ObjectInitializers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

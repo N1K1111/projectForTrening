@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\RecordInheritance\\RecordInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\RecordInheritance\\RecordInheritance.csproj",
       "projectName": "RecordInheritance",
-      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\RecordInheritance\\RecordInheritance.csproj",
+      "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\RecordInheritance\\RecordInheritance.csproj",
       "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForLern\\RecordInheritance\\obj\\",
+      "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\RecordInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

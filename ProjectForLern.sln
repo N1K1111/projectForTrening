@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOverrides", "ObjectOv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{A8423E5A-DE7F-4140-8416-76CADD318EB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleException", "SimpleException\SimpleException.csproj", "{5EF61C05-2D23-4CF5-9A7B-0C0AA51BF257}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleException", "SimpleException\SimpleException.csproj", "{5EF61C05-2D23-4CF5-9A7B-0C0AA51BF257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEnumerator", "CustomEnumerator\CustomEnumerator.csproj", "{C5574097-113B-4BDB-AF67-C11D1958DE6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{5EF61C05-2D23-4CF5-9A7B-0C0AA51BF257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EF61C05-2D23-4CF5-9A7B-0C0AA51BF257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EF61C05-2D23-4CF5-9A7B-0C0AA51BF257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5574097-113B-4BDB-AF67-C11D1958DE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5574097-113B-4BDB-AF67-C11D1958DE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5574097-113B-4BDB-AF67-C11D1958DE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5574097-113B-4BDB-AF67-C11D1958DE6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
