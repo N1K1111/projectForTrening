@@ -12,3 +12,17 @@ C:\Users\nikgl\Desktop\MyShop\ProjectForLern\SimpleException\obj\Debug\net7.0\re
 C:\Users\nikgl\Desktop\MyShop\ProjectForLern\SimpleException\obj\Debug\net7.0\SimpleException.pdb
 C:\Users\nikgl\Desktop\MyShop\ProjectForLern\SimpleException\obj\Debug\net7.0\SimpleException.genruntimeconfig.cache
 C:\Users\nikgl\Desktop\MyShop\ProjectForLern\SimpleException\obj\Debug\net7.0\ref\SimpleException.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\bin\Debug\net7.0\SimpleException.exe
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\bin\Debug\net7.0\SimpleException.deps.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\bin\Debug\net7.0\SimpleException.runtimeconfig.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\bin\Debug\net7.0\SimpleException.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\bin\Debug\net7.0\SimpleException.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\SimpleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\SimpleException.AssemblyInfoInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\SimpleException.AssemblyInfo.cs
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\SimpleException.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\refint\SimpleException.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\SimpleException.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\SimpleException.genruntimeconfig.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleException\obj\Debug\net7.0\ref\SimpleException.dll

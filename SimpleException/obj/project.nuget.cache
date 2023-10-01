@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "XcLDAct5KpxjLkGd2IA+/UdJ0B7Pds79PNTzYIv+Zkyd/Go/xQRadu9a1nGvYUDvFBcxb/CnzwdXtVrG+qyfNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\SimpleException\\SimpleException.csproj",
+=======
   "dgSpecHash": "3DFsrvvAGWfAkPRAdzp9pp4hm8OHw1aWaYLhkn4VMZ4jA1Yy+AbS0mO7VklTxbMBv+Ja15g4+eIaOQy70gezLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\SimpleException\\SimpleException.csproj",
+>>>>>>> ce292eb6e1daf376d70e57ebc4ae451fe82f6725
   "expectedPackageFiles": [],
   "logs": []
 }

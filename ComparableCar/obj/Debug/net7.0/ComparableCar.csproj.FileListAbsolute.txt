@@ -1,0 +1,14 @@
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\bin\Debug\net7.0\ComparableCar.exe
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\bin\Debug\net7.0\ComparableCar.deps.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\bin\Debug\net7.0\ComparableCar.runtimeconfig.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\bin\Debug\net7.0\ComparableCar.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\bin\Debug\net7.0\ComparableCar.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ComparableCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ComparableCar.AssemblyInfoInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ComparableCar.AssemblyInfo.cs
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ComparableCar.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ComparableCar.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\refint\ComparableCar.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ComparableCar.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ComparableCar.genruntimeconfig.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\ComparableCar\obj\Debug\net7.0\ref\ComparableCar.dll

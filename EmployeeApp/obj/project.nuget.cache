@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "JhDjLm/PInQxI/SP+aPF+FR68JeRMujjv8Cx4NM71U8NgLHZIhaLyCsogLvMngS/KKHBYyEv1S09DCv5bdDEiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\EmployeeApp\\EmployeeApp.csproj",
+=======
   "dgSpecHash": "R7R1hivCQqr0+BLfj59zlZcNk9yV4Xd+cSvowUP2izNgNJ30z4Xi8FISYt38L30OxjrRRusFKW06wWlhR15t7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\EmployeeApp\\EmployeeApp.csproj",
+>>>>>>> ce292eb6e1daf376d70e57ebc4ae451fe82f6725
   "expectedPackageFiles": [],
   "logs": []
 }
