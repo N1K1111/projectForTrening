@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\FunWithRecords\\FunWithRecords.csproj": {}
+    "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\FunWithRecords\\FunWithRecords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\FunWithRecords\\FunWithRecords.csproj": {
+    "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\FunWithRecords\\FunWithRecords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\FunWithRecords\\FunWithRecords.csproj",
+        "projectUniqueName": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\FunWithRecords\\FunWithRecords.csproj",
         "projectName": "FunWithRecords",
-        "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\FunWithRecords\\FunWithRecords.csproj",
+        "projectPath": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\FunWithRecords\\FunWithRecords.csproj",
         "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\FunWithRecords\\obj\\",
+        "outputPath": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\FunWithRecords\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\nikgl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
