@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\ProjectForLern\\ProjectForLern.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\ProjectForLern\\ProjectForLern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\ProjectForLern\\ProjectForLern.csproj",
+        "projectName": "ProjectForLern",
+        "projectPath": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\ProjectForLern\\ProjectForLern.csproj",
+        "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\ProjectForLern\\obj\\",
+=======
     "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\ProjectForLern.csproj": {}
   },
   "projects": {
@@ -12,9 +25,10 @@
         "projectPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\ProjectForLern.csproj",
         "packagesPath": "C:\\Users\\nikgl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\obj\\",
+>>>>>>> ce292eb6e1daf376d70e57ebc4ae451fe82f6725
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\nikgl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

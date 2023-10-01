@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "YM7onUhDb+HfYetfrI76FJdL1SGcaGR8Y3iSeYW0XkDWHDSm7nCrHwrD9cRe/FRwbf7nn7ZGxcYvzUKO4VWW/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikgl\\OneDrive\\Рабочий стол\\Проекты .NET\\projectForTrening\\ProjectForLern\\ProjectForLern.csproj",
+=======
   "dgSpecHash": "FqnojHbxOphWycXDkWMDA/1oaix68nQxr3o7+JoDgYNJZj5cs6fSiWJycre96rStlExxEf1bbGSMGbaaWqc/4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\nikgl\\Desktop\\MyShop\\ProjectForTrening\\ProjectForLern\\ProjectForLern.csproj",
+>>>>>>> ce292eb6e1daf376d70e57ebc4ae451fe82f6725
   "expectedPackageFiles": [],
   "logs": []
 }
