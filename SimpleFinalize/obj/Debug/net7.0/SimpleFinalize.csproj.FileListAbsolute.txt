@@ -1,0 +1,14 @@
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.exe
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.deps.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.runtimeconfig.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.AssemblyInfoInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.AssemblyInfo.cs
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\refint\SimpleFinalize.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.genruntimeconfig.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleFinalize\obj\Debug\net7.0\ref\SimpleFinalize.dll

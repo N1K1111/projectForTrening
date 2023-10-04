@@ -1,0 +1,14 @@
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\bin\Debug\net7.0\FunWithGenericollections.exe
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\bin\Debug\net7.0\FunWithGenericollections.deps.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\bin\Debug\net7.0\FunWithGenericollections.runtimeconfig.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\bin\Debug\net7.0\FunWithGenericollections.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\bin\Debug\net7.0\FunWithGenericollections.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\FunWithGenericollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\FunWithGenericollections.AssemblyInfoInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\FunWithGenericollections.AssemblyInfo.cs
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\FunWithGenericollections.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\FunWithGenericollections.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\refint\FunWithGenericollections.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\FunWithGenericollections.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\FunWithGenericollections.genruntimeconfig.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\FunWithGenericollections\obj\Debug\net7.0\ref\FunWithGenericollections.dll

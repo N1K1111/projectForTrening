@@ -1,0 +1,14 @@
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\bin\Debug\net7.0\IssuesWithNongenericCollections.exe
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\bin\Debug\net7.0\IssuesWithNongenericCollections.deps.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\bin\Debug\net7.0\IssuesWithNongenericCollections.runtimeconfig.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\bin\Debug\net7.0\IssuesWithNongenericCollections.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\bin\Debug\net7.0\IssuesWithNongenericCollections.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\IssuesWithNongenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\IssuesWithNongenericCollections.AssemblyInfoInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\IssuesWithNongenericCollections.AssemblyInfo.cs
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\IssuesWithNongenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\IssuesWithNongenericCollections.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\refint\IssuesWithNongenericCollections.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\IssuesWithNongenericCollections.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\IssuesWithNongenericCollections.genruntimeconfig.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\IssuesWithNongenericCollections\obj\Debug\net7.0\ref\IssuesWithNongenericCollections.dll

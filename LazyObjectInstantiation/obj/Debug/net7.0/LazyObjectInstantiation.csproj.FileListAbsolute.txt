@@ -1,0 +1,14 @@
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\bin\Debug\net7.0\LazyObjectInstantiation.exe
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\bin\Debug\net7.0\LazyObjectInstantiation.deps.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\bin\Debug\net7.0\LazyObjectInstantiation.runtimeconfig.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\bin\Debug\net7.0\LazyObjectInstantiation.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\bin\Debug\net7.0\LazyObjectInstantiation.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\LazyObjectInstantiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\LazyObjectInstantiation.AssemblyInfoInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\LazyObjectInstantiation.AssemblyInfo.cs
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\LazyObjectInstantiation.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\LazyObjectInstantiation.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\refint\LazyObjectInstantiation.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\LazyObjectInstantiation.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\LazyObjectInstantiation.genruntimeconfig.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\LazyObjectInstantiation\obj\Debug\net7.0\ref\LazyObjectInstantiation.dll

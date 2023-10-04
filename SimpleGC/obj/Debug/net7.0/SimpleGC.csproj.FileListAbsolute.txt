@@ -1,0 +1,14 @@
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\bin\Debug\net7.0\SimpleGC.exe
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\bin\Debug\net7.0\SimpleGC.deps.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\bin\Debug\net7.0\SimpleGC.runtimeconfig.json
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\bin\Debug\net7.0\SimpleGC.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\bin\Debug\net7.0\SimpleGC.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\SimpleGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\SimpleGC.AssemblyInfoInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\SimpleGC.AssemblyInfo.cs
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\SimpleGC.csproj.CoreCompileInputs.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\SimpleGC.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\refint\SimpleGC.dll
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\SimpleGC.pdb
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\SimpleGC.genruntimeconfig.cache
+C:\Users\nikgl\OneDrive\Рабочий стол\Проекты .NET\projectForTrening\SimpleGC\obj\Debug\net7.0\ref\SimpleGC.dll
